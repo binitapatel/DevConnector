@@ -1,2 +1,1 @@
-# DevConnector
-Developer MERN project Microservices.
+npm i express express-validator bcryptjs config gravatar jsonwebtoken mongoose request
